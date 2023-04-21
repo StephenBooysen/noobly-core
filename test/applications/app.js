@@ -10,7 +10,7 @@
  application.parameters = {};
  
  // Instantiate the Shnakkydoodle Framework
- var noobly = require('.')(application);
+ var noobly = require('../..')(application);
  
  /**
   * Initialise the server
